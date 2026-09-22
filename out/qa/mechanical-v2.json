@@ -1,0 +1,72 @@
+{
+  "videos": [
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene01-preview-candidate-v2.mp4",
+      "frames": 91,
+      "videoSeconds": 3.033333,
+      "containerSeconds": 3.093333,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene02-preview-candidate-v2.mp4",
+      "frames": 305,
+      "videoSeconds": 10.166667,
+      "containerSeconds": 10.218667,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene03-preview-candidate-v2.mp4",
+      "frames": 210,
+      "videoSeconds": 7.0,
+      "containerSeconds": 7.061333,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene04-preview-candidate-v2.mp4",
+      "frames": 193,
+      "videoSeconds": 6.433333,
+      "containerSeconds": 6.485333,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene05-preview-candidate-v2.mp4",
+      "frames": 186,
+      "videoSeconds": 6.2,
+      "containerSeconds": 6.250667,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/xps-staggered-joints-preview-v2.mp4",
+      "frames": 1155,
+      "videoSeconds": 38.5,
+      "containerSeconds": 38.549333,
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac",
+      "fullDecode": "PASS"
+    }
+  ],
+  "v1AndEndingPreserved": true,
+  "checkedFiles": 25
+}

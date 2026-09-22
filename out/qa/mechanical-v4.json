@@ -1,0 +1,54 @@
+{
+  "videos": [
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene01-preview-candidate-v4.mp4",
+      "frames": 102,
+      "seconds": 3.4,
+      "containerSeconds": 3.4,
+      "decode": "PASS (assembly run)",
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene03-preview-candidate-v4.mp4",
+      "frames": 210,
+      "seconds": 7.0,
+      "containerSeconds": 7.061333,
+      "decode": "PASS (assembly run)",
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/scene04-preview-candidate-v4.mp4",
+      "frames": 197,
+      "seconds": 6.566667,
+      "containerSeconds": 6.566667,
+      "decode": "PASS (assembly run)",
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac"
+    },
+    {
+      "file": "/Users/janghokim/Documents/xps-staggered-joints-shorts/public/assets/video/xps-staggered-joints-preview-v4.mp4",
+      "frames": 1138,
+      "seconds": 37.933333,
+      "containerSeconds": 37.933333,
+      "decode": "PASS (assembly run)",
+      "resolution": "1080x1920",
+      "fps": 30,
+      "videoCodec": "h264",
+      "audioCodec": "aac"
+    }
+  ],
+  "reusedScene2Scene5EndingDecodedPixels": "PASS (assembly run, preceding metadata assertion)",
+  "sourceAndMediaPreserved": true,
+  "osMetadataChanges": [
+    "public/assets/.DS_Store"
+  ],
+  "gunUnchanged": true
+}

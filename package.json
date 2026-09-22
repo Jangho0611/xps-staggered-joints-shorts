@@ -1,0 +1,22 @@
+{
+  "name": "xps-staggered-joints-shorts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "XPS 2P staggered joints Shorts",
+  "scripts": {
+    "studio": "remotion studio src/index.tsx",
+    "render": "remotion render src/index.tsx XpsStaggered public/assets/video/xps-staggered-joints-preview-v1.mp4 --codec=h264 --concurrency=2"
+  },
+  "dependencies": {
+    "@remotion/captions": "4.0.496",
+    "@remotion/media": "4.0.496",
+    "@remotion/cli": "4.0.496",
+    "remotion": "4.0.496",
+    "react": "19.2.3",
+    "react-dom": "19.2.3"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.7",
+    "typescript": "5.9.3"
+  }
+}
